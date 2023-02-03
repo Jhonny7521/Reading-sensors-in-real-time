@@ -1,25 +1,25 @@
 ## SERVER FOR READING SENSORS AND BARCODES IN REAL TIME 
 
-### CLONACIÓN DE PROYECTO
+### PROJECT CLONING
 
-Para interatuar con el presente proyecto se deberá seguir las siguientes indicaciones:
+To interact with this project, the following instructions must be followed:
 
-- Clonar el repositorio:
+- Clone the repository:
 ```sh
 $ git clone 
 ```
 
-- Instalar las dependencias
+- Install the dependencies:
 ```sh
 $ npm install
 ```
 
-- Ejecutar el proyecto en ambiente de desarrollo
+- Run the project in development environment:
 ```sh
 $ npm run dev
 ```
 
-### SOBRE EL PROYECTO:
+### ABOUT THE PROJECT:
 
-- Lenguaje de programación: __Typescript__
-- Framework utilizado: __Express__
+- Programming language: __Typescript__
+- Framework used: __Express__
